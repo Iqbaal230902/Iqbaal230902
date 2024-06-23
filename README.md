@@ -1,11 +1,4 @@
-## Hi there 👋, my Name is Iqbaal
-
-
-
-- 📫 How to reach me iqbaal230902@gmail.com
-- ⚡ Fun fact Who's the best? I'M
-
-  # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+  # <summary><strong>Hi there :wave: , I'm Iqbaal!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -19,20 +12,17 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:iqbaal230902@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 <a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="Iqbaal's Instagram" width="20px" src="[https://simpleicons.now.sh/instagram/495f7e](https://www.instagram.com/iqbal_aljahr/)" />
 </a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+<a href="https://www.linkedin.com/">
+  <img align="left" alt="Iqbaal's LinkedIn" width="20px" src="[https://simpleicons.now.sh/linkedin/495f7e](https://www.linkedin.com/in/iqbalul-hidayatus-sholihin-a-289009290/)" />
 </a>
 Ubah link media sosial diatas dengan link media sosial kalian.
 
