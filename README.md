@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, my name is Iqbaal</h1>
-- 📫 How to reach me **ojanaja03@gmail.com**
+- 📫 How to reach me **iqbaal230902@gmail.com**
 - ⚡ Fun fact **Who's the best? Me**
 
 ## Let's connect! 
