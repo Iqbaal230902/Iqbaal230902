@@ -18,5 +18,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 <br/>
+
+<h1>My Skill Set </h1> 
+<table><tr><td valign="top" width="25%">
