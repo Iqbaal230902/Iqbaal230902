@@ -1,36 +1,18 @@
-  # <summary><strong>Hi there :wave: , I'm Iqbaal!</strong></summary>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+<h1 align="center">Hi There👋, my name is Iqbaal</h1>
+- 📫 How to reach me **ojanaja03@gmail.com**
+- ⚡ Fun fact **Who's the best? Me**
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:iqbaal230902@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com//">
-  <img align="left" alt="Iqbaal's Instagram" width="20px" src="[https://simpleicons.now.sh/instagram/495f7e](https://www.instagram.com/iqbal_aljahr/)" />
+## Let's connect! 
+<div align="center">
+<a href="https://github.com/iqbaal230902" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img align="left" alt="Iqbaal's LinkedIn" width="20px" src="[[https://simpleicons.now.sh/linkedin/495f7e](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/iqbalul-hidayatus-sholihin-a-289009290/)" />
+<a href="https://www.linkedin.com/in/iqbalul-hidayatus-sholihin-a-289009290/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-Ubah link media sosial diatas dengan link media sosial kalian.
+<a href="https://instagram.com/iqbal_aljahr" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-Untuk Tools, kalian juga dapat menambahkan:
-
-<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
-<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
-<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
-</p>
+<br/>
