@@ -1,6 +1,10 @@
 <h1 align="center">Hi There👋, my name is Iqbaal</h1>
-- 📫 How to reach me iqbaal230902@gmail.com
-- ⚡ Fun fact Who's the best? Me
+### <summary><strong>Yosh!</strong></summary>
+<p>
+    - :keyboard: I’m currently Mobile Application. </br>
+    - :speech_balloon: Ask me about anything.</br>
+    - :mailbox: How to reach me: <a href="iqbaal230902@gmail.com">Email me!</a>  </br>
+<p>
 
 ## Let's connect! 
 <div align="center">
