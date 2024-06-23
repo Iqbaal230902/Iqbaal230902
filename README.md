@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, my name is Iqbaal</h1>
-<h1 align="center">Yow! </h1>
+<h1>Yow! </h1>
 <p>
     - :keyboard: I’m currently Mobile Application. </br>
     - :speech_balloon: Ask me about anything.</br>
