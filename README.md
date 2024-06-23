@@ -1,6 +1,4 @@
-
-
-https://github.com/Iqbaal230902/Iqbaal230902/assets/95160015/76d71310-2e5f-46c1-be66-6f0c562ae21f
+![github](https://github.com/Iqbaal230902/Iqbaal230902/assets/95160015/ef79f568-eac8-4ee4-abd4-67bf835978c3)
 
 <h1 align="center">Hi There👋, my name is Iqbaal</h1>    
 <h1>Let's connect! </h1>
