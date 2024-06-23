@@ -5,8 +5,8 @@
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="iqbaal230902@gmail.com">Email me!</a>  </br>
 <p>
-
-Let's connect! 
+    
+<h1 align="center">Let's connect! </h1>
 <div align="center">
 <a href="https://github.com/iqbaal230902" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
