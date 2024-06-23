@@ -1,5 +1,4 @@
   # <summary><strong>Hi there :wave: , I'm Iqbaal!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -18,11 +17,11 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/yours/">
+<a href="https://www.instagram.com//">
   <img align="left" alt="Iqbaal's Instagram" width="20px" src="[https://simpleicons.now.sh/instagram/495f7e](https://www.instagram.com/iqbal_aljahr/)" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img align="left" alt="Iqbaal's LinkedIn" width="20px" src="[https://simpleicons.now.sh/linkedin/495f7e](https://www.linkedin.com/in/iqbalul-hidayatus-sholihin-a-289009290/)" />
+  <img align="left" alt="Iqbaal's LinkedIn" width="20px" src="[[https://simpleicons.now.sh/linkedin/495f7e](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/iqbalul-hidayatus-sholihin-a-289009290/)" />
 </a>
 Ubah link media sosial diatas dengan link media sosial kalian.
 
