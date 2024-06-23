@@ -1,11 +1,4 @@
-<h1 align="center">Hi There👋, my name is Iqbaal</h1>
-<h1>Yow! </h1>
-<p>
-    - :keyboard: I’m currently Mobile Application. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="iqbaal230902@gmail.com">Email me!</a>  </br>
-<p>
-    
+<h1 align="center">Hi There👋, my name is Iqbaal</h1>    
 <h1>Let's connect! </h1>
 <div align="center">
 <a href="https://github.com/iqbaal230902" target="_blank">
